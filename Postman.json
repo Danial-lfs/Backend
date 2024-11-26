@@ -1,0 +1,27 @@
+[
+    {
+        "_id": "67334e313d7964c8b02054c5",
+        "name": "Catnip",
+        "price": "5.99"
+    },
+    {
+        "_id": "67334e5e3d7964c8b02054c7",
+        "name": "Cat Tower",
+        "price": "5.99"
+    },
+    {
+        "_id": "67334e903d7964c8b02054c9",
+        "name": "Cat Food",
+        "price": "5.99"
+    },
+    {
+        "_id": "673c7cd89384082e30d73d7f",
+        "title": "new product",
+        "price": 49
+    },
+    {
+        "_id": "6745d342529186006c3032c8",
+        "name": "Daniyal",
+        "price": "5.99"
+    }
+]
