@@ -193,7 +193,7 @@ app.use((err, req, res, next) => {
     res.status(500).send('Something went wrong!');
 });
 
-// Start server
+
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
     logActivity(`Server started on port ${port}`);
